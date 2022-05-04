@@ -1,6 +1,6 @@
-# GitHub Graduation-2022
+# Graduación GitHub-2022
 
-### Available Translations 🗣
+### Traducciones disponibles 🗣
 
 * [Pt-BR](https://bit.ly/3LI8kAc)
 * [中国人](./translations/README.zh.md)
@@ -8,31 +8,31 @@
 * [Русский](./translations/README.ru.md) 
 * [Indonesian](./translations/README.id-id.md)
 
-*Read the instructions in your language or [contribute a translation](translations/README.md)!*
+*Lee las instrucciones en tu propio idioma o [contribuye en la traducción](translations/README.md)!*
 
 ![2022-github-graduation-social-card-1](/assets/GHG_Blog_1.jpg)
 
 
 
-This repository contains the yearbook for **GitHub Graduation 2022**. By issuing a pull request to this repository, you can request to be added to the GitHub Class of 2022. 
-
-The first 7,500 pull request successfully merged into the repository by May 27 will receive custom trading card, stickers, and letter in the mail. 
+Este repositorio contiene el anuario para la **Graduación GitHub 2022**. Al hacer una pull request a este repositorio, puedes solicitar ser añadido en la Clase Github de 2022.
 
 
-## Privacy Notice 👀
-Consider that all the information that you add to this repository will be publicly available.
+Los primeros 7,500 pull requests que se hayan combinado exitosamente en el repositorio antes del 27 de mayo recibirán cartas de intercambio, pegatinas y carta por correo.
 
-- If you don't feel comfortable with displaying your full name, you can include a short name or nickname instead.
+## Aviso de privacidad 👀
+Considere que toda la información que usted añada en este repositorio será públicamente visible.
 
-# Who can apply 📝
-We invite any student who has graduated, or plans to graduate, in 2022 to apply to the yearbook. This includes bootcamps, code camps, high school graduates, Master's graduates, Ph. D. Graduates, etc.
+- Si no se siente cómodo mostrando su nombre completo, puede incluir un nombre corto o apodo en su lugar.
 
-The eligibility criteria are -
-1. You have been verified as a student with the GitHub Student Developer Pack. Not yet a part of the Pack? [Apply here](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation).
-2. You have not participated in a past GitHub Graduation event.
-3. You identify as a graduate in the year 2022.
+# Quién puede solicitar entrar 📝
+Invitamos a cualquier estudiante que se haya graduado, o planee graduarse, en 2022 a postularse al anuario. Esto incluye bootcamps, campamentos de código, graduados de secundaria, graduados de maestría, ph. D. graduados, etc.
 
-# How to join the Class of 2022
+Los criterios de elegibilidad son -
+1. Ha sido verificado como estudiante con el GitHub Student Developer Pack. ¿Aún no forma parte del Pack? [Solicita aquí](https://education.github.com/discount_requests/student_application?utm_source=2022-06-11-GitHubGraduation).
+2. No has participado en un evento de graduación de GitHub anterior.
+3. Te identificas como graduado en el año 2022.
+
+# Cómo unirse a la Clase de 2022
 
 Here are two steps to join graduation and receive your custom trading card and stickers in the mail. 
 1. [Fill out the **shipping form**](https://airtable.com/shrVMo8ItH4wjsO9f)
